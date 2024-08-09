@@ -146,12 +146,4 @@ Contributions are welcome! If you have additional problems, solutions, or improv
 3. Make your changes and commit them.
 4. Push to the new branch and create a pull request.
 
-## 📜 License
-
-This repository is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ---
-
-이 README 파일은 파일 링크를 클릭할 수 있도록 업데이트되었습니다. 각 파일 링크
-
-를 올바르게 연결해 주세요.
